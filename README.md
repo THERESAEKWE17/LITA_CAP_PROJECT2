@@ -1,26 +1,26 @@
 # LITA_CAP_PROJECT2
-
-## Sales Performance Analysis for a Retail Store
-This project analysis the sales dataset of a retail store using Excel,Power BI,and SQL to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
+## Customer Segmentation for a Subscription Service
+This project involves analyzing customer data for a subscription service to identify segments and trends.The goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals. The final deliverable is a Power BI dashboard that presents the analysis.
 ## Data Source:
-An Excel Dataset file from a retail store.
+An Excel Dataset file for Customer Segmentation for a Subscription Service.
 ## Key features and Columns
-- OrderID: Unique identifier for each transaction.
 - Customer Id: Unique ID for each customer.
-- Product: Items bought by customers.  
-- Region: Geographycal region of the sale.
-- OrderDate: Date of the transaction.
-- Quantity: Quantity of items sold in each transaction
-- UnitPrice: Price for each product.
+- CustomerName: Unique name for each customer.  
+- Region: Geographical region of the sale.
+- Subscription Type: Specifies the type of subscription a customer has purchased.
+- Subscription Start: The date when the customer's subscription started.
+- Subscription End: The date when the customer's subscription is set to expire.
+- Canceled: Indicates whether a customer's subscription was canceled.
+- Revenue: Total income generated from a subscription.
 
 ## Objectives and Insight-Driven Questions
-- Calculate metrics such as average sales per product and total revenue by region.
-- Retrieve the total sales for each product category.
-- Find the number of sales transactions in each region.
-- Find the highest-selling product by total sales value.
-- Calculate total revenue per product.
-- Calculate monthly sales totals for the current year.
-- Find the top 5 customers by total purchase amount.
+- Calculate the average subscription duration.
+- Identify the most popular subscription types.
+- Retrieve the total number of customers from each region.
+- Find the most popular subscription type by the number of customers.
+- Find customers who canceled their subscription within 6 months.
+- Calculate the average subscription duration for all customers.
+- Find customers with subscriptions longer than 12 months.
 ## Tools and Technologies
 ### Excel:
 For data cleaning and exploratory analysis.
