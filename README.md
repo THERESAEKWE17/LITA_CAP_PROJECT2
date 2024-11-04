@@ -41,6 +41,10 @@ For data extraction,transformation and aggregation.
 3. Visualization(Power BI): Created Dashboards to visualize trends and present insights.
 ## Excel(Pivot Table)
 ---
+- Used pivot tables to summarize total sales by product, region, and month.
+- Average sales per product and total revenue by region
+<img width="960" alt="EXCELPROJECT2" src="https://github.com/user-attachments/assets/9bd23657-a7b3-43ee-9a4a-a0d7c4ff3db2">
+
 ## SQL Query
 ---
 ## Power BI
