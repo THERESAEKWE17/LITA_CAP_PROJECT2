@@ -51,3 +51,6 @@ For data extraction,transformation and aggregation.
 
 ## Power BI
 ---
+
+<img width="503" alt="POWERBIP2" src="https://github.com/user-attachments/assets/bc87ff7f-ab96-4db7-8000-a0ecfb00b569">
+
