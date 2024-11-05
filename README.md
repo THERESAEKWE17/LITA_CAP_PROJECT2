@@ -47,5 +47,7 @@ For data extraction,transformation and aggregation.
 
 ## SQL Query
 ---
+<img width="551" alt="SQLPROJECT2" src="https://github.com/user-attachments/assets/e79cddf7-630a-48e9-bc87-32731044181b">
+
 ## Power BI
 ---
